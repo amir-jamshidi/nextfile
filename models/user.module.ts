@@ -29,4 +29,3 @@ const userSchema = new Schema<IUser>({
 const userModel = models.User || model('User', userSchema);
 
 export default userModel
-
