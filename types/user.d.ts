@@ -7,3 +7,4 @@ export interface IUser extends Document {
     fullname: string,
     role: string,
 }   
+
